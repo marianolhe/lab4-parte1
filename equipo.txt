@@ -9,3 +9,6 @@ sobretodo los que no tienen sistemas de magia muy complicados y en que los perso
 2. Diana:
 Mi nombre es Diana, soy estudiante de segundo año de Ingeniería en Ciencias de la Computación.
 Me gusta mucho dar paseos en área naturales, como en bosques o jardines y también me gusta mucho cocinar postres.
+
+3. René:
+"Mi nombre es Máximo Décimo Meridio, comandante de los ejércitos del Norte, general de las legiones medias, fiel servidor del verdadero emperador, Marco Aurelio, padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza, en esta vida o en la próxima." 
